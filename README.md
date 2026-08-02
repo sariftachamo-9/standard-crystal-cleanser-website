@@ -284,4 +284,4 @@ Standard: JIS K-3362 Compliant
 
 ---
 
-Built in Nepal · Powered by React, TypeScript & Vite · Formulated to JIS K-3362
+Engineered in Nepal · Powered by React, TypeScript & Vite · Manufactured to JIS K-3362 Standards · ![Designed & Developed by](https://img.shields.io/badge/Built%20By-Mr.%20Sarif%20Tachamo-FFD700?style=for-the-badge)
